@@ -1,0 +1,7 @@
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WcfWebService\bin\Debug\WcfWebService.dll.config
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WcfWebService\bin\Debug\WcfWebService.dll
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WcfWebService\bin\Debug\WcfWebService.pdb
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WcfWebService\obj\Debug\WcfWebService.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WcfWebService\obj\Debug\WcfWebService.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WcfWebService\obj\Debug\WcfWebService.dll
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WcfWebService\obj\Debug\WcfWebService.pdb

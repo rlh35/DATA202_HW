@@ -1,0 +1,10 @@
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\obj\Debug\WCFWindowsForm.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\obj\Debug\WCFWindowsForm.Form1.resources
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\obj\Debug\WCFWindowsForm.Properties.Resources.resources
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\obj\Debug\WCFWindowsForm.csproj.GenerateResource.cache
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\obj\Debug\WCFWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\bin\Debug\WCFWindowsForm.exe.config
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\bin\Debug\WCFWindowsForm.exe
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\bin\Debug\WCFWindowsForm.pdb
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\obj\Debug\WCFWindowsForm.exe
+C:\Users\Ryan\Documents\DATA202\Web Services\WcfWebService\WCFWindowsForm\obj\Debug\WCFWindowsForm.pdb

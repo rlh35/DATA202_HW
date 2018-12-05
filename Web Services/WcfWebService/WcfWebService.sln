@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfWebService", "WcfWebService\WcfWebService.csproj", "{3E3C9BB5-C79D-4320-8A16-C084243F5A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFWindowsForm", "WCFWindowsForm\WCFWindowsForm.csproj", "{B4436A0C-0BE7-40B6-BA49-15375829842E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3E3C9BB5-C79D-4320-8A16-C084243F5A00} = {3E3C9BB5-C79D-4320-8A16-C084243F5A00}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E3C9BB5-C79D-4320-8A16-C084243F5A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3C9BB5-C79D-4320-8A16-C084243F5A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3C9BB5-C79D-4320-8A16-C084243F5A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3C9BB5-C79D-4320-8A16-C084243F5A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4436A0C-0BE7-40B6-BA49-15375829842E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4436A0C-0BE7-40B6-BA49-15375829842E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4436A0C-0BE7-40B6-BA49-15375829842E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4436A0C-0BE7-40B6-BA49-15375829842E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CCAD0E7-22B3-4D79-806A-D007432FE6CC}
+	EndGlobalSection
+EndGlobal
