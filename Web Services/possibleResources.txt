@@ -1,0 +1,5 @@
+https://www.saksoft.com/advantages-of-web-api-over-wcf/
+
+https://stackoverflow.com/questions/9348639/wcf-vs-asp-net-web-api
+
+https://docs.microsoft.com/en-us/dotnet/framework/wcf/wcf-and-aspnet-web-api
